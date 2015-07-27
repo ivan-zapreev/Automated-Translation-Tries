@@ -9,12 +9,10 @@
         <group>
             <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/inc/Logger.hpp</file>
             <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/Logger.cpp</file>
-            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/StatisticsMonitor.cpp</file>
-            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/TrieBuilder.cpp</file>
             <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/main.cpp</file>
-            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/NGramBuilder.cpp</file>
             <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/HashMapTrie.cpp</file>
-            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/inc/HashMapTrie.hpp</file>
+            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/NGramBuilder.cpp</file>
+            <file>file:/Users/zapreevis/Projects/Automated-Translation-Tries/src/StatisticsMonitor.cpp</file>
         </group>
     </open-files>
 </project-private>
